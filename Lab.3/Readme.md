@@ -63,11 +63,11 @@ Because of the possibility of getting an image from that server I have decided t
 
 Below are presented responses I have got to the GET and POST requests and the returned image from the server.
 
-![Variant](https://github.com/denisdumitras/Network-Programming/blob/master/Lab.3/Screens/GET.PNG)
+![Variant](https://github.com/denisdumitras/NetworkProgramming/tree/master/Lab.3/Screens/GET.PNG)
 
-![Variant](https://github.com/denisdumitras/Network-Programming/blob/master/Lab.3/Screens/POST.PNG)
+![Variant](https://github.com/denisdumitras/NetworkProgramming/tree/master/Lab.3/Screens/POST.PNG)
 
-![Variant](https://github.com/denisdumitras/Network-Programming/blob/master/Lab.3/Screens/Image.PNG)
+![Variant](https://github.com/denisdumitras/NetworkProgramming/tree/master/Lab.3/Screens/Image.PNG)
 
 ### Conclusion
 In this laboratory work I have learned what the HTTP protocol is and how it can be used while trying to communicate through the internet. Also, I have developed a HttpClient application which deals with the main HTTP methods. There are several possibilites of creating and executing requests in Java. No matter what approach will be used, the workflow remains the same.
